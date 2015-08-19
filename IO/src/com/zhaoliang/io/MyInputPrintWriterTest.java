@@ -22,7 +22,7 @@ public class MyInputPrintWriterTest {
 		
 		InputStreamReader inputStreamReader = new InputStreamReader(url.openStream());
 		
-		//f法第三方士大夫是打发撒旦法士大夫放发士大夫是打发
+		//f法第三方士大夫是打发撒旦法士大夫放发士大夫是打发三个答复是打发答复给第三方广东佛山广东佛山给第三方给第三方刚多个
 		FileOutputStream out = new FileOutputStream("F:/test/test.txt");
 		DataOutputStream dataOutputStream = new DataOutputStream(out);
 		
